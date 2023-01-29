@@ -1,0 +1,19 @@
+{
+  "name": "Ataraxia",
+  "version": "0.1.0",
+  "description": "A simple Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dilshan-h",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  }
+}

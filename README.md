@@ -1,1 +1,1 @@
-# Ataraxia
+# Ataraxia - A simple Discord bot
